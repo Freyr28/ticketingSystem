@@ -9,4 +9,6 @@ Real-time viewing of ticket status and ability to update or close tickets.
 Ticket deletion functionality for efficient ticket management.
 Data persistence through a MySQL database, with tickets stored and retrieved dynamically.
 Use of Apache via XAMPP to manage the backend server, facilitating local testing and deployment of the PHP code.
+
+
 This project showcases proficiency in backend development, database integration, and using XAMPP to create a local web server environment for handling dynamic, user-generated data. It highlights a strong understanding of web technologies and a practical approach to solving real-world IT support challenges.
